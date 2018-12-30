@@ -1,0 +1,9 @@
+<operation>
+   <container type="GLOBAL">
+      <field id="LANGID" value="E"/>
+      <field id="FUNCTION" value="A.FUN.DET"/>
+   </container>
+   <container type="KEYLIST">
+      <key id="MDFUN" value="X.IFSD.LST "/>
+   </container>
+</operation>
