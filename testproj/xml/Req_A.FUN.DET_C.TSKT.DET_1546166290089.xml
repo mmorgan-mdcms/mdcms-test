@@ -5,5 +5,6 @@
    </container>
    <container type="KEYLIST">
       <key id="MDFUN" value="C.TSKT.DET"/>
+      <key id="MDSUN" value="C.SOLA.DET"/>
    </container>
 </operation>
