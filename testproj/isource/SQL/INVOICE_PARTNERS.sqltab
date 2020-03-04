@@ -8,7 +8,7 @@ PARTNER_STATUS CHAR(1) NOT NULL WITH DEFAULT,
 HELPED_BY CHAR (20),                                      
 HELPED_TIME TIMESTAMP NOT NULL WITH DEFAULT,              
 CHANGED TIMESTAMP NOT NULL WITH DEFAULT,                  
-CHANGED_BY CHAR (10),                                     
+CHANGED_BY CHAR (10) NOT NULL WITH DEFAULT,                                     
 REVERTED_BY CHAR (10),                                    
 PRIMARY KEY (INVOICE_NUMBER, PARTNER_NUMBER));            
                                                           
